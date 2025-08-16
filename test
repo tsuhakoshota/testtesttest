@@ -41,7 +41,7 @@
         <!-- changer ici le lien de la vidéo -->
         <video
           id="viddd"
-          src="https://cdn.glitch.global/6f41f115-b3f0-4265-9cbe-0e732292bfbd/maki.mp4?v=1748587802054"
+          src="maki(1).mp4"
           autoplay="true"
           loop="false"
           playsline
